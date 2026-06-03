@@ -1,0 +1,88 @@
+let moreProducts = [
+  {
+    id: "5",
+    name: "Stylish Dress 1",
+    price: "$120",
+    description: "A beautiful and stylish dress for special occasions.",
+    image: "/images/girl1.jpeg",
+  },
+  {
+    id: "6",
+    name: "Stylish Dress 2",
+    price: "$130",
+    description: "An elegant dress perfect for evening parties.",
+    image: "/images/girl2.jpeg",
+  },
+  {
+    id: "7",
+    name: "Stylish Dress 3",
+    price: "$140",
+    description: "A trendy dress for casual outings.",
+    image: "/images/girl3.jpeg",
+  },
+  {
+    id: "8",
+    name: "Stylish Dress 4",
+    price: "$150",
+    description: "A premium dress for formal occasions.",
+    image: "/images/girl4.jpeg",
+  },
+  {
+    id: "9",
+    name: "Stylish Dress 5",
+    price: "$160",
+    description: "A fashionable dress for special events.",
+    image: "/images/girl5.jpeg",
+  },
+  {
+    id: "10",
+    name: "Stylish Dress 6",
+    price: "$170",
+    description: "A chic dress for modern fashion lovers.",
+    image: "/images/girl6.jpeg",
+  },
+  {
+    id: "11",
+    name: "Stylish Dress 7",
+    price: "$180",
+    description: "A stunning dress for evening wear.",
+    image: "/images/girl7.jpeg",
+  },
+  {
+    id: "12",
+    name: "Stylish Dress 8",
+    price: "$190",
+    description: "A glamorous dress for parties and events.",
+    image: "/images/girl8.jpeg",
+  },
+  {
+    id: "13",
+    name: "Stylish Dress 9",
+    price: "$200",
+    description: "A luxurious dress for special occasions.",
+    image: "/images/girl9.jpeg",
+  },
+  {
+    id: "14",
+    name: "Stylish Dress 10",
+    price: "$210",
+    description: "A sophisticated dress for formal gatherings.",
+    image: "/images/girl10.jpeg",
+  },
+  {
+    id: "15",
+    name: "Stylish Dress 11",
+    price: "$220",
+    description: "A trendy dress for casual and formal wear.",
+    image: "/images/girl11.jpeg",
+  },
+  {
+    id: "16",
+    name: "Stylish Dress 12",
+    price: "$230",
+    description: "A fashionable dress for all occasions.",
+    image: "/images/girl12.jpeg",
+  },
+];
+
+export { moreProducts };

@@ -1,0 +1,8 @@
+**/node_modules
+client/dist
+client/dist-ssr
+client/logs
+client/*.log
+client/.vscode
+client/.idea
+server/*.log
