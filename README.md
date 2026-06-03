@@ -28,29 +28,6 @@ A fully functional, modern e-commerce web application built using the MERN stack
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ System Architecture & Data Flow
 
-* **Frontend:** React.js, Redux Toolkit (State Management), Tailwind CSS / Bootstrap, Axios
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB (via Mongoose Object Modeling)
-* **Authentication:** JSON Web Tokens (JWT) & bcryptjs
-* **Payments:** Stripe API / PayPal SDK
-* **File Uploads:** Cloudinary (for product images)
-
----
-
-## ⚙️ Prerequisites
-
-Before running the project locally, ensure you have the following installed:
-* [Node.js](https://nodejs.org/) (v16.x or higher)
-* [MongoDB](https://www.mongodb.com/) (Local instance or MongoDB Atlas account)
-* [Git](https://git-scm.com/)
-
----
-
-## 📥 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+The application utilizes a decoupled Client-Server architecture. The frontend React application communicates asynchronously with the Node/Express backend via a RESTful API.
